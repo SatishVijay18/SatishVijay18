@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satish</h1>
-<h3 align="center">A frontend? developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
+<h1 align='center'><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1wbDVobnZ6cXpsNnlldjN6Nngwem44c243bjlodGN2MXNvZjhnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"/></h1>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satishvijay18" alt="satishvijay18" /></a> </p>
 
@@ -13,9 +16,8 @@
 
 - 📫 U can reach me at **satish.vijay@bounteous.com**
 
-- ⚡ Fun fact **Sometimes i make beats 🤖 -> https://open.spotify.com/artist/5aZz24HYNsjTfnfSktQ6jn**
+- ⚡ Fun fact **sometimes i make beats 🤖 -> https://open.spotify.com/artist/5aZz24HYNsjTfnfSktQ6jn**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
